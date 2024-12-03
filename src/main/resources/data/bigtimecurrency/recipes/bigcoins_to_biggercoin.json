@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "bigtimecurrency:cluster"
+    }
+  },
+  "result": {
+    "item": "bigtimecurrency:bigcoin_block"
+  }
+}

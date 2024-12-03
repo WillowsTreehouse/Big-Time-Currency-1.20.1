@@ -1,0 +1,14 @@
+{
+  "item.bigtimecurrency.speck": "Tinycoin",
+  "item.bigtimecurrency.clump": "Smallcoin",
+  "item.bigtimecurrency.cluster": "Bigcoin",
+  "item.bigtimecurrency.bighorn": "Big Horn",
+
+  "item.bigtimecurrency.yougetastar": "yougetastar",
+
+  "block.bigtimecurrency.bigcoin_block": "Biggercoin",
+
+  "sounds.bigtimecurrency.bighorn_honk": "SOMETHING MISCHIEVOUS IS AFOOT...",
+
+  "itemgroup.money": "Big Time Currency"
+}

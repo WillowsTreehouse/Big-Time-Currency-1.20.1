@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bigtimecurrency:cluster"
+    }
+  ],
+  "result": {
+    "item": "bigtimecurrency:clump",
+    "count": 9
+  }
+}

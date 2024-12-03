@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bigtimecurrency:clump"
+    }
+  ],
+  "result": {
+    "item": "bigtimecurrency:speck",
+    "count": 9
+  }
+}

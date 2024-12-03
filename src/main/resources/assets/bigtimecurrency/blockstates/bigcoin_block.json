@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bigtimecurrency:block/bigcoin_block"
+    }
+  }
+}
